@@ -1,7 +1,7 @@
 let modInfo = {
-	name: "The ??? Tree",
-	id: "mymod",
-	author: "nobody",
+	name: "The random Tree",
+	id: "mckight",
+	author: "MCKight",
 	pointsName: "points",
 	discordName: "",
 	discordLink: "",
@@ -12,8 +12,8 @@ let modInfo = {
 
 // Set your version in num and name
 let VERSION = {
-	num: "0.0",
-	name: "Literally nothing",
+	num: "0.0.0",
+	name: "game is game",
 }
 
 // If you add new functions anywhere inside of a layer, and those functions have an effect when called, add them here.
